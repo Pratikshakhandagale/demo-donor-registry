@@ -21,5 +21,13 @@
     "logLevel": "debug",
     "secure": false
 
+  },
+  },
+  "/donor-service": {
+    "target": "https://demo-nha-donor-registry.sunbirdrc.dev",
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "secure": false
+
   }
 }
